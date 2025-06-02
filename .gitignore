@@ -1,0 +1,8 @@
+.local/
+.orchestrator/
+.screenshots/
+.data/
+project.json.log
+*.nupkg
+/.settings/
+!project.json
